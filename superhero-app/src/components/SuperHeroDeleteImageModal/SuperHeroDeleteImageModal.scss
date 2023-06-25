@@ -1,0 +1,42 @@
+.delete-modal__image-list{
+    display: flex;
+    flex-direction: column;
+}
+.delete-modal__image-item{
+    margin: 0.5vw 0px;
+    width: 100%;
+    height: 20vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.delete-modal__image{
+    width: 80%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.delete-modal__image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.delete-modal__image-btn{
+    width: 20%;
+    height: 100%;
+}
+.modal-hero__elem-title {
+    font-weight: 600;
+}
+
+.modal-hero__add-image-btn {
+    width: 100%;
+    margin: 1vw 0px 0px 0px;
+}
+
+.modal-hero__added-image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 1vw;
+    margin: 1vw 0px 0px 0px;
+}

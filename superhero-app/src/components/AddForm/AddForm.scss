@@ -1,0 +1,14 @@
+.heroes-list{
+    width: 30%;
+    margin: 0 auto;
+}
+.heroes-list__item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    & span{
+        font-size: 1vw;
+        font-weight: 600;
+    }
+}
