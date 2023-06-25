@@ -1,4 +1,4 @@
-﻿#Superheroes Web Application
+﻿**Superheroes Web Application**
 
 This is a repository that contains a web application for creating a database of superheroes. The application allows you to create, edit and delete superheroes. You can also browse the list of all superheroes with pagination, showing one image for each superhero, and view the details of a specific superhero with all their information and images. **Node.js, MongoDB and React** were used to develop the project.
 
