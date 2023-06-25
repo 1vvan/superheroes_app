@@ -1,10 +1,10 @@
 ﻿**Superheroes Web Application**
 
-`  `This is a repository that contains a web application for creating a database of superheroes. The application allows you to create, edit and delete superheroes. You can also browse the list of all superheroes with pagination, showing one image for each superhero, and view the details of a specific superhero with all their information and images. **Node.js, MongoDB and React** were used to develop the project.
+This is a repository that contains a web application for creating a database of superheroes. The application allows you to create, edit and delete superheroes. You can also browse the list of all superheroes with pagination, showing one image for each superhero, and view the details of a specific superhero with all their information and images. **Node.js, MongoDB and React** were used to develop the project.
 
 **Requirements**
 
-` `**Before using this project, make sure the following dependencies are installed on your computer:**
+**Before using this project, make sure the following dependencies are installed on your computer:**
 
 1\. Node.js (any version convenient for you)
 
@@ -12,7 +12,7 @@
 
 3\. React (version 16.x or later)
 
-` `Instructions for launching the project:
+Instructions for launching the project:
 
 1\. Download the project from [GitHub](https://github.com/1vvan/superheroes_app) in any convenient way for you
 
